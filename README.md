@@ -166,6 +166,7 @@ Feel free to check the [issues page](../../issues/).
 
 - I would like to thank following
   - MicroVerse 
+  - Helina
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
