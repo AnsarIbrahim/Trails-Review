@@ -27,7 +27,7 @@
 # 📖 Review Project <a name="about-project"></a>
 
 
-**Review Project** is a website that displays my Techinical skills and projects that i have done.
+**Review Project** is that displays my Techinical skills and projects that i have done.
 
 ## 🛠 Built With <a name="built-with"></a>
 
