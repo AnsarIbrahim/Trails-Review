@@ -113,7 +113,7 @@ In order to run this project you need:
 ### Deployment
 
 - You can deploy this project using:
-  - Type cd myportfolio
+  - Type cd Trails-Review
   - open index.html file in the browser
 
 
