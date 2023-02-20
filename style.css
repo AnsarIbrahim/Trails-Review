@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  background-color: grey;
+}
+
+body > h1 > p {
+  color: white;
+}
+
+.form-page {
+  width: 600px;
+  padding: 20px;
+  margin: 50px 30%;
+  background-color: white;
+  text-align: left;
+}
+
+.title {
+  color: #fff;
+  font-size: 35px;
+}
+
+.description {
+  color: #fff;
+  font-size: 25px;
+}
+
+.input-class {
+  padding: 8px;
+  width: 95%;
+}
+
+select textarea {
+  padding: 8px;
+  width: 95%;
+}
+
+.info-div {
+  margin: 5px 15px 10px 15px;
+}
+
+.submit {
+  margin: 5px 15px 10px 15px;
+  width: 95%;
+  padding: 11px 0;
+  text-align: center;
+  border: none;
+  color: #fff;
+  background-color: green;
+}
